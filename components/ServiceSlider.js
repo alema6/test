@@ -11,25 +11,25 @@ import Service3Icon from '../public/img/services/service-icon3.svg';
 const services=[
   {
     image: Service1Icon,
-    name:'Pharmacy',
+    name:'Tretmani',
     description:
     'Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.',
-    btnText:'Explore'
+    btnText:'Saznaj više'
   },
 
   {
     image: Service2Icon,
-    name:'Breed-specific Haircuts',
+    name:'Frizure specifične za pasmine',
     description:
     'Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.',
-    btnText:'Explore'
+    btnText:'Saznaj više'
   },
   {
     image: Service3Icon,
-    name:'Cloths',
+    name:'Odjeća',
     description:
     'Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.',
-    btnText:'Explore'
+    btnText:'Saznaj više'
   
   }
 ];

@@ -9,11 +9,12 @@ const Header = () => {
         <Image src={Logo}/>
       </a>
       <nav className='text-xl flex gap-x-4 lg:gap-x-12'>
-        <a href="#">Services</a>
-        <a href="#">About</a>
-        <a href="#">Contact</a>
+        <a href="#">Usluge</a>
+        <a href="#">O nama</a>
+        <a href="#">Kontakt</a>
       </nav>
       <button className='btn btn-primary lg:btn-outline'>Sign up</button>
+      <button className='btn btn-primary lg:btn-outline'>Register</button>
     </div>
   </header>
 );

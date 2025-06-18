@@ -17,7 +17,7 @@ const Footer = () => {
 
           </ul>
           <div className='flex justify-center lg:justify-start'>
-            <div className='mr-6'>Follow</div>
+            <div className='mr-6'>Zapratite nas</div>
             <ul className='flex gap-x-4'>
               <li><a href='#'><BsFacebook/></a></li>
               <li><a href='#'><BsInstagram/></a></li>
