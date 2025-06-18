@@ -32,7 +32,7 @@
     @apply right-[23%] md:right-[35%] lg:right-[40%];
   }
   .serviceSlider .swiper-button-prev:after,
-  .serviceSlider .swiper-button-next:after {
+  .serviceSlider .swiper-button-next:after { 
     @apply text-lg;
   }
 }
