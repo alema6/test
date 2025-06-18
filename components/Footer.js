@@ -19,9 +19,9 @@ const Footer = () => {
           <div className='flex justify-center lg:justify-start'>
             <div className='mr-6'>Zapratite nas</div>
             <ul className='flex gap-x-4'>
-              <li><a href='#'><BsFacebook/></a></li>
-              <li><a href='#'><BsInstagram/></a></li>
-              <li><a href='#'><BsTwitter/></a></li>
+              <li><a href='https://www.facebook.com/'><BsFacebook/></a></li>
+              <li><a href='https://www.instagram.com/'><BsInstagram/></a></li>
+              <li><a href='https://x.com/'><BsTwitter/></a></li>
             </ul>
           </div>
         </div>

@@ -18,8 +18,7 @@ const Adoption = () => {
         </p>
         <ul className='mb-[38px] flex flex-col gap-y-4 lg:list-disc lg:pl-4'>
           <li>Usvajanje</li>
-          <li>Frozen Raw</li>
-          <li>Next Day Delivery</li>
+          <li>Isporuka</li>
         </ul>
         <button className='btn btn-primary mx-auto lg:mx-0'>Saznaj više</button>
 

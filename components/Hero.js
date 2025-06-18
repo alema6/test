@@ -13,8 +13,7 @@ return (
       </div>
       <h1 className='text-xl lg:text-8xl uppercase font-bold -tracking-[0.05em] mb-10'>
       Spasite<br/>
-      <span className='text-orange font-normal'>životinju</span><br/>
-      i ona vas neće zaboraviti</h1>
+      <span className='text-orange font-normal'>životinje</span><br/></h1>
       <button className='btn btn-orange mx-auto lg:mx-0'>Saznaj više</button>
 
 
