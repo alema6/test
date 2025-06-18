@@ -21,7 +21,7 @@ const Adoption = () => {
           <li>Frozen Raw</li>
           <li>Next Day Delivery</li>
         </ul>
-        <button className='btn btn-primary mx-auto lg:mx-0'>Explore</button>
+        <button className='btn btn-primary mx-auto lg:mx-0'>Saznaj više</button>
 
       </div>
     </div>
